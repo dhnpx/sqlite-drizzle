@@ -5,4 +5,5 @@ run studio:
 npx dsizzle-kit studio
 ```
 
-got to > https://:local/drizzle.studio
+go to 
+> https://:local.drizzle.studio
